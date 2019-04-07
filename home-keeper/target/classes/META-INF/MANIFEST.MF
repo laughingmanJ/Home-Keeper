@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: JC
+Build-Jdk: 11.0.2
+Implementation-Title: home-keeper
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.homekeeper
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/home-keeper
+Created-By: Maven Integration for Eclipse
+
